@@ -235,3 +235,8 @@ footer {
 .contact-form button:hover {
   background-color: #00d5bf;
 }
+
+.map-section {
+  padding: 40px 20px;
+  background-color: #101010;
+}
